@@ -1,11 +1,3 @@
-minha primeira anotação.
-
-teste
-
-segunda alteracao.
-
-terceira aletaraçao.
-
 Nome:Fernando Eduardo de Oliveira Nunes
 RA.1460682023031
 
@@ -17,3 +9,4 @@ DropBox
 
 
 II.Considere a seguinte tabela ASCII   
+
