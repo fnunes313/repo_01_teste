@@ -9,4 +9,4 @@ DropBox
 
 
 II.Considere a seguinte tabela ASCII   
-
+entender
