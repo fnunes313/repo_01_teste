@@ -5,9 +5,7 @@ I.Escolha  um  sistema  computacional  e  dê  um  exemplo  de  DADO,  INFORMAÇÃO
 Poste  o nome/tipo do sistema que você escolheu (no caso de duplas, escolha dois sistemas) no canal Tema Atividades. 
 Se um colega já escolheu o sistema que você escolheu, você deverá escolher outro.
 
-DropBox
-
-Sharepoint
+DropBox ou Sharepoint
 
 
 II.Considere a seguinte tabela ASCII -Para seu primeiro e último nomes crie o codigo Binario.  
