@@ -1,0 +1,42 @@
+Nome:Fernando Eduardo de Oliveira Nunes
+RA.1460682023031
+
+I.Escolha  um  sistema  computacional  e  dê  um  exemplo  de  DADO,  INFORMAÇÃO  e CONHECIMENTO  associado  às  informações  manipuladas  pelo  sistema. 
+Poste  o nome/tipo do sistema que você escolheu (no caso de duplas, escolha dois sistemas) no canal Tema Atividades. 
+Se um colega já escolheu o sistema que você escolheu, você deverá escolher outro.
+
+DropBox ou Sharepoint
+
+
+II.Considere a seguinte tabela ASCII -Para seu primeiro e último nomes crie o codigo Binario.  
+
+Mensagem: NomeSobrenome
+
+1000110
+1000101
+1010010
+1001110
+1000001
+1001110
+1000100
+1001111
+1000000
+1001110
+1010101
+1001110
+1000101
+1010011
+
+
+III.xemplifique um site (ou 2, no caso de duplas) que utilize criptografia, tal como mostrado nos vídeos do professor. 
+Escreva aqui o link para acessá-lo. 
+
+https://www.dropbox.com/business
+
+https://www.microsoft.com/pt-br/microsoft-365/sharepoint/collaboration
+
+IV.Tire um “print” do site que você escolheu e que usa criptografia, e salve no formato jpg ou png, salve com nome figura.jpg ou figura.png
+
+Anexo Git.
+
+
